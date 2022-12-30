@@ -1,5 +1,9 @@
 # RentPipe - Modern UI/UX website using React.js & ReactBoostrap
 
+## Final Project for Course CS 545 Human Computer Interaction at Stevens Institute of technology 
+
+### RentPipe is created using ReactJS, Firebase-auth, Firebase-Storage, Firebase-Firestore and ReactBootstrap. this application is a Frontend Client that sufficiently demonstrates key Fundamentals of HCI
+
 <img src="https://i.ibb.co/YyCmfj1/React-Project2.png" alt="drawing" width="1600"/>
 
 yarn start
