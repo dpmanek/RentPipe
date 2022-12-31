@@ -9,6 +9,7 @@
 
 [RentPipe Presentation](https://drive.google.com/file/d/1llfWZuJS_oO1FPezgxj_M4R1cxVBYFZI/view?usp=sharing)
 [RentPipe Demonstration Video](https://drive.google.com/file/d/1fxLsQC8DMHuJ2xfBrVnbxvbCGwbClt8i/view?usp=sharing)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/22ed8c89-1dab-4ef0-b0dc-d66893f03cc9/deploy-status)](https://app.netlify.com/sites/rentpipe/deploys)
 
 <img src="https://i.ibb.co/YyCmfj1/React-Project2.png" alt="drawing" width="1600"/>
 
