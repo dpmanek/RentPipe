@@ -18,7 +18,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/kevin46dsa/RentPipe">
     <img src="https://i.ibb.co/wLv47Wm/Rent-Pipe-logos-white-adobe-express.png" alt="Logo" width="200" height="100">
   </a>
   
@@ -96,14 +96,9 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,57 +112,28 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This application is uses NPM as a package manager and was created using React-Create-App.
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install 
   ```
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+This is how you can run the project on your system:
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Create a clone of the RentPipe Repository on your local machine
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/kevin46dsa/RentPipe
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+3. Run the React application
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   npm start
    ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,7 +160,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,9 +169,20 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+You can contact me at: [Kevin Dsa](https://github.com/kevin46dsa)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kevindsa2017">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/kevin46dsa">
+    <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode Badge"/>
+  </a>
+  <a href="https://twitter.com/Kevindsaoff">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/kevin46dsa/RentPipe](https://github.com/kevin46dsa/RentPipe)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -214,16 +191,11 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Id Like to thank [React & Next js Projects with Sahand](https://www.youtube.com/@reactproject) for the amazing tutorial video of Realtor Clone, links mentioned below
+* [Realtor Clone: Part 1](https://www.youtube.com/watch?v=b0_Y_eU_SXI&t=0s) 
+* [Realtor Clone: Part 2](https://www.youtube.com/watch?v=fJ3UpxNanBE&t=0s) 
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
