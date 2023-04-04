@@ -19,9 +19,6 @@
 
 
 
-.compose-input::placeholder {
-  opacity: 0.3;
-}
 
 .compose .toolbar-button {
   color: #bbbbbf;
