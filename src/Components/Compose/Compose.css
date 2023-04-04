@@ -17,8 +17,17 @@
   }
 }
 
+.compose-input {
+  flex: 1;
+  border: none;
+  font-size: 14px;
+  height: 40px;
+  background: none;
+}
 
-
+.compose-input::placeholder {
+  opacity: 0.3;
+}
 
 .compose .toolbar-button {
   color: #bbbbbf;
