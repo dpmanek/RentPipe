@@ -18,7 +18,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/kevin46dsa/RentPipe">
+  <a href="https://github.com/dpmanek/RentPipe">
     <img src="https://i.ibb.co/wLv47Wm/Rent-Pipe-logos-white-adobe-express.png" alt="Logo" width="200" height="100">
   </a>
   
@@ -29,7 +29,7 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/kevin46dsa/RentPipe"><strong>Explore the docs</strong></a>
+    <a href="https://github.com/dpmanek/RentPipe"><strong>Explore the docs</strong></a>
     ·
     <a href="https://drive.google.com/file/d/1llfWZuJS_oO1FPezgxj_M4R1cxVBYFZI/view?usp=sharing">View Project Presentation</a>
     ·
@@ -115,7 +115,7 @@ This is how you can run the project on your system:
 
 1. Create a clone of the RentPipe Repository on your local machine
    ```sh
-   git clone https://github.com/kevin46dsa/RentPipe
+   git clone https://github.com/dpmanek/RentPipe
    ```
 2. Install NPM packages
    ```sh
@@ -160,20 +160,17 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-You can contact me at: [Kevin Dsa](https://github.com/kevin46dsa)
+You can contact me at: [Deep Manek](https://github.com/dpmanek)
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kevindsa2017">
+  <a href="https://www.linkedin.com/in/deepmanek/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/kevin46dsa">
+  <a href="https://leetcode.com/dpmanek/">
     <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode Badge"/>
-  </a>
-  <a href="https://twitter.com/Kevindsaoff">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-Project Link: [https://github.com/kevin46dsa/RentPipe](https://github.com/kevin46dsa/RentPipe)
+Project Link: [https://github.com/dpmanek/RentPipe](https://github.com/dpmanek/RentPipe)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,8 +191,6 @@ Id Like to thank [React & Next js Projects with Sahand](https://www.youtube.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/kevin46dsa/RentPipe.svg?style=for-the-badge
-[contributors-url]: https://github.com/kevin46dsa/RentPipe/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -205,7 +200,7 @@ Id Like to thank [React & Next js Projects with Sahand](https://www.youtube.com/
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/kevindsa2017
+[linkedin-url]: https://www.linkedin.com/in/deepmanek/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
